@@ -1,0 +1,28 @@
+18-Jun-2019 18:29:03.405 INFO [http-nio-2626-exec-2] org.apache.catalina.core.ApplicationContext.log HTMLManager: init: Associated with Deployer 'Catalina:type=Deployer,host=localhost'
+18-Jun-2019 18:29:03.405 INFO [http-nio-2626-exec-2] org.apache.catalina.core.ApplicationContext.log HTMLManager: init: Global resources are available
+18-Jun-2019 18:29:03.431 INFO [http-nio-2626-exec-2] org.apache.catalina.core.ApplicationContext.log HTMLManager: list: Listing contexts for virtual host 'localhost'
+18-Jun-2019 18:32:44.093 INFO [http-nio-2626-exec-5] org.apache.catalina.core.ApplicationContext.log HTMLManager: init: Associated with Deployer 'Catalina:type=Deployer,host=localhost'
+18-Jun-2019 18:32:44.093 INFO [http-nio-2626-exec-5] org.apache.catalina.core.ApplicationContext.log HTMLManager: init: Global resources are available
+18-Jun-2019 18:32:44.096 INFO [http-nio-2626-exec-5] org.apache.catalina.core.ApplicationContext.log HTMLManager: list: Listing contexts for virtual host 'localhost'
+18-Jun-2019 18:33:57.346 INFO [http-nio-2626-exec-4] org.apache.catalina.core.ApplicationContext.log HTMLManager: list: Listing contexts for virtual host 'localhost'
+18-Jun-2019 18:34:25.400 INFO [http-nio-2626-exec-10] org.apache.catalina.core.ApplicationContext.log HTMLManager: list: Listing contexts for virtual host 'localhost'
+18-Jun-2019 18:34:53.979 INFO [http-nio-2626-exec-6] org.apache.catalina.core.ApplicationContext.log HTMLManager: list: Listing contexts for virtual host 'localhost'
+18-Jun-2019 18:39:23.822 INFO [http-nio-2626-exec-1] org.apache.catalina.core.ApplicationContext.log HTMLManager: init: Associated with Deployer 'Catalina:type=Deployer,host=localhost'
+18-Jun-2019 18:39:23.822 INFO [http-nio-2626-exec-1] org.apache.catalina.core.ApplicationContext.log HTMLManager: init: Global resources are available
+18-Jun-2019 18:39:23.829 INFO [http-nio-2626-exec-1] org.apache.catalina.core.ApplicationContext.log HTMLManager: list: Listing contexts for virtual host 'localhost'
+18-Jun-2019 18:41:54.945 INFO [http-nio-2626-exec-4] org.apache.catalina.core.ApplicationContext.log HTMLManager: list: Listing contexts for virtual host 'localhost'
+18-Jun-2019 18:42:06.541 INFO [http-nio-2626-exec-6] org.apache.catalina.core.ApplicationContext.log HTMLManager: list: Listing contexts for virtual host 'localhost'
+18-Jun-2019 18:42:33.784 INFO [http-nio-2626-exec-1] org.apache.catalina.core.ApplicationContext.log HTMLManager: list: Listing contexts for virtual host 'localhost'
+18-Jun-2019 18:50:19.994 INFO [http-nio-2626-exec-10] org.apache.catalina.core.ApplicationContext.log HTMLManager: list: Listing contexts for virtual host 'localhost'
+18-Jun-2019 18:50:30.248 INFO [http-nio-2626-exec-4] org.apache.catalina.core.ApplicationContext.log HTMLManager: list: Listing contexts for virtual host 'localhost'
+18-Jun-2019 18:50:41.426 INFO [http-nio-2626-exec-6] org.apache.catalina.core.ApplicationContext.log HTMLManager: list: Listing contexts for virtual host 'localhost'
+18-Jun-2019 18:55:47.671 INFO [http-nio-2626-exec-2] org.apache.catalina.core.ApplicationContext.log HTMLManager: init: Associated with Deployer 'Catalina:type=Deployer,host=localhost'
+18-Jun-2019 18:55:47.672 INFO [http-nio-2626-exec-2] org.apache.catalina.core.ApplicationContext.log HTMLManager: init: Global resources are available
+18-Jun-2019 18:55:47.675 INFO [http-nio-2626-exec-2] org.apache.catalina.core.ApplicationContext.log HTMLManager: list: Listing contexts for virtual host 'localhost'
+18-Jun-2019 18:56:00.176 INFO [http-nio-2626-exec-3] org.apache.catalina.core.ApplicationContext.log Manager: init: Associated with Deployer 'Catalina:type=Deployer,host=localhost'
+18-Jun-2019 18:56:00.176 INFO [http-nio-2626-exec-3] org.apache.catalina.core.ApplicationContext.log Manager: init: Global resources are available
+18-Jun-2019 18:56:00.176 INFO [http-nio-2626-exec-3] org.apache.catalina.core.ApplicationContext.log Manager: list: Listing contexts for virtual host 'localhost'
+18-Jun-2019 18:56:00.191 INFO [http-nio-2626-exec-5] org.apache.catalina.core.ApplicationContext.log Manager: deploy: Deploying web application '/Eureka-Server-0.0.1-SNAPSHOT.war'
+18-Jun-2019 18:56:00.191 INFO [http-nio-2626-exec-5] org.apache.catalina.core.ApplicationContext.log Manager: Uploading WAR file to C:\Users\mnoumanp\Downloads\Tomcat\apache-tomcat-8.5.42\webapps\Eureka-Server-0.0.1-SNAPSHOT.war.war
+18-Jun-2019 18:56:51.013 INFO [http-nio-2626-exec-8] org.apache.catalina.core.ApplicationContext.log HTMLManager: list: Listing contexts for virtual host 'localhost'
+18-Jun-2019 19:00:54.969 INFO [http-nio-2626-exec-4] org.apache.catalina.core.ApplicationContext.log HTMLManager: list: Listing contexts for virtual host 'localhost'
